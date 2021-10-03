@@ -903,3 +903,381 @@ Indonesia,ID,JK,Jakarta,Jakarta,,-6.1741,106.8296,,AS132669 PT Globalnet Multi D
 South Korea,KR,11,Seoul,Seoul,02878,37.5944,126.9864,Kornet,AS4766 Korea Telecom,121.133.94.94
 Taiwan,TW,TXG,Taichung City,Taichung,,24.144,120.6844,Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,210.241.255.84
 China,CN,SC,Sichuan,Chengdu,,30.6667,104.0667,Chinanet SC,AS4134 CHINANET-BACKBONE,171.217.54.206
+Taiwan,TW,NWT,New Taipei,New Taipei,,24.9389,121.5422,Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,114.32.179.218
+South Korea,KR,42,Gangwon-do,Chuncheon,24329,37.8897,127.736,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,152.67.204.139
+United Kingdom,GB,ENG,England,London,EC4N,51.5095,-0.0955,Shock Hosting LLC,AS395092 Shock Hosting LLC,45.155.39.173
+Russia,RU,MOW,Moscow,Moscow,,55.6979,37.677,CJSC Communications innovations,AS47196 Garant Park Internet,195.22.149.81
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.91.74
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.132.150.250
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,121.5.232.79
+Singapore,SG,,,Singapore,190464,1.3048,103.8622,Google Cloud (asia-southeast1),AS15169 Google LLC,35.240.183.26
+Albania,AL,11,Tirana,Tirana,,41.3253,19.8184,Albanian Hosting SH.P.K,AS212744 Albanian Hosting SH.P.K.,91.230.110.173
+Italy,IT,88,Sardinia,Iglesias,09016,39.3092,8.5372,Tiscali Italia SpA,AS8612 Tiscali Italia S.P.A.,84.221.171.231
+Japan,JP,27,Ōsaka,Osaka,562-0021,34.8225,135.4711,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.50.5
+United States,US,IA,Iowa,Waverly,50677,42.7767,-92.4082,MEDIACOM,AS30036 Mediacom Communications Corp,173.31.178.145
+China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Shanghai UCloud Information Technology Company Limited,AS4811 China Telecom (Group),113.31.126.102
+Germany,DE,HE,Hesse,Frankfurt am Main,60314,50.1103,8.7147,Gportal,AS56876 Ociris GmbH,176.57.128.32
+Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Contabo GmbH,AS51167 Contabo GmbH,5.189.163.140
+Indonesia,ID,JK,Jakarta,Jakarta,,-6.23516,106.82,,AS131745 PT. Cybertechtonic Pratama,202.83.122.170
+Lithuania,LT,VL,Vilnius,Vilnius,03228,54.6743,25.2679,EDIS GmbH,AS56630 Melbikomas UAB,192.36.61.41
+Japan,JP,13,Tokyo,Tokyo,214-0021,35.6211,139.5786,TYO Vultr,"AS20473 The Constant Company, LLC",202.182.110.254
+Singapore,SG,,,Singapore,,1.35208,103.82,Amateur Radio Digital Communications,AS135646 Luginbash AS,44.159.67.254
+China,CN,GD,Guangdong,Maoming,,21.652,110.8938,Chinanet GD,AS140313 CHINATELECOM Guangdong province Zhaoqing 5G network,113.94.17.79
+United States,US,NJ,New Jersey,Piscataway,08854,40.5569,-74.4847,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.63.15.35
+Netherlands,NL,NH,North Holland,Amsterdam,1011,52.3667,4.9,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation,20.103.64.204
+Bahrain,BH,13,Manama,Manama,,26.2167,50.5833,AWS EC2 (me-south-1),"AS16509 Amazon.com, Inc.",15.184.189.254
+Switzerland,CH,ZH,Zurich,Zurich,8102,47.4049,8.4631,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.208.177
+South Korea,KR,28,Incheon,Incheon,21539,37.4562,126.7288,Kornet,AS4766 Korea Telecom,118.46.197.95
+United States,US,CA,California,Los Angeles,90009,34.0544,-118.2441,DediPath LLC,AS35913 DediPath,45.128.73.254
+United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",34.205.57.244
+United States,US,AZ,Arizona,Phoenix,85001,33.4484,-112.074,Eonix Corporation,AS62904 Eonix Corporation,173.232.2.74
+China,CN,GD,Guangdong,Guangzhou,,23.1291,113.264,Huawei Cloud Service,AS55990 Huawei Cloud Service data center,139.9.28.251
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,,"AS132203 Tencent Building, Kejizhongyi Avenue",124.156.159.15
+Taiwan,TW,,Taiwan,Taipei,,25.0133,121.541,T-NTUST.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.118.170.25
+China,CN,GX,Guangxi,Dafeng,,23.7248,108.808,Chinanet GX,AS4134 CHINANET-BACKBONE,171.104.192.91
+Australia,AU,NSW,New South Wales,Sydney,1001,-33.8688,151.209,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,152.67.100.3
+Estonia,EE,37,Harjumaa,Tallinn,,59.433,24.7323,,AS34702 Aktsiaselts WaveCom,46.22.220.61
+Germany,DE,ST,Saxony-Anhalt,Wernigerode,38855,51.8441,10.7767,BCC-HARZDSL,AS206761 Lothar Heuer & Andreas Sack GbR,185.45.205.169
+United States,US,CA,California,Los Angeles,90009,34.0522,-118.244,LucidaCloud Limited,AS21859 Zenlayer Inc,91.208.245.48
+Portugal,PT,01,Aveiro,Albergaria-a-Velha,3850-000,40.6965,-8.4767,PT Comunicacoes S.A.,AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,188.82.243.76
+Singapore,SG,,,Singapore,627753,1.32123,103.695,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.215.125
+Cyprus,CY,01,Nicosia,Nicosia,,35.1638,33.3639,DA International Group Ltd,AS6866 Cyprus Telecommunications Authority,157.97.132.113
+South Korea,KR,41,Gyeonggi-do,Siheung-si,14971,37.3925,126.7854,,AS4766 Korea Telecom,121.170.60.153
+China,CN,SD,Shandong,Qingdao,,36.0986,120.3719,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.105.64.215
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.179.242
+Russia,RU,ARK,Arkhangelskaya,Arkhangelsk,163515,64.4777,40.4998,JSC North-West Telecom,AS12389 PJSC Rostelecom,91.122.210.4
+Vietnam,VN,DN,Da Nang,Da Nang,,16.0685,108.2215,Viettel Group,AS24086 Viettel Corporation,116.105.19.150
+Japan,JP,13,Tokyo,Tokyo,104-0031,35.68,139.77,Microsoft Azure Cloud (japaneast),AS8075 Microsoft Corporation,20.89.105.58
+Australia,AU,ACT,Australian Capital Territory,Wanniassa,2903,-35.4031,149.097,,AS16276 OVH SAS,51.161.192.79
+Netherlands,NL,NH,North Holland,Amsterdam,1014,52.3907,4.8637,,AS43350 NForce Entertainment B.V.,185.53.129.113
+Russia,RU,MOS,Moscow Oblast,Khimki,141406,55.8919,37.4652,Professional Telesystems Ltd,AS51077 Modern Technologies Ltd.,178.219.44.150
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,42.194.141.208
+Italy,IT,25,Lombardy,Milan,20121,45.4642,9.18998,virtual solution srl,AS49367 Seflow S.N.C. Di Marco Brame' & C.,89.40.142.170
+United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.234.7
+Singapore,SG,,,Singapore,627753,1.32123,103.695,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.222.23
+Denmark,DK,84,Capital Region,Copenhagen,2750,55.7327,12.3656,EDIS GmbH,AS9009 M247 Ltd,192.36.27.86
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.267,114.188,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,40.83.72.97
+Hong Kong,HK,NSK,Sai Kung District,Tseung Kwan O,,22.3119,114.257,,AS54574 DMIT Cloud Services,103.135.251.242
+United States,US,CA,California,Los Angeles,90014,34.0485,-118.2529,,AS8100 QuadraNet Enterprises LLC,104.129.63.52
+China,CN,HA,Henan,Laocheng,,34.814,112.643,,AS4837 CHINA UNICOM China169 Backbone,182.121.71.100
+Albania,AL,11,Tirana,Tirana,,41.3253,19.8184,Albanian Hosting SH.P.K,AS212744 Albanian Hosting SH.P.K.,192.166.245.175
+United Kingdom,GB,ENG,England,London,EC4N,51.5095,-0.0955,Kramer Moritz,AS16276 OVH SAS,51.89.14.47
+Netherlands,NL,NH,North Holland,Amsterdam,1011,52.3667,4.9,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation,137.117.187.53
+Japan,JP,27,Ōsaka,Osaka,543-0062,34.6851,135.5136,Cluster Logic Inc,AS25820 IT7 Networks Inc,185.212.59.248
+Canada,CA,QC,Quebec,Montreal,H1H,45.5402,-73.6568,Rica Web Services,AS26832 Rica Web Services,104.152.209.19
+United States,US,GA,Georgia,Atlanta,30302,33.749,-84.388,Agustinus dion adi wibowo,"AS31863 Centrilogic, Inc.",104.152.190.74
+Singapore,SG,,,Singapore,,1.28009,103.851,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.213.211.2
+Singapore,SG,,,Singapore,,1.35208,103.82,365 Group LLC,AS59253 Leaseweb Asia Pacific pte. ltd.,209.17.118.120
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,82.156.23.88
+China,CN,SC,Sichuan,Chengdu,,30.6741,104.06,"Chengdu west dimension digital technology Co., LTD",AS38283 CHINANET SiChuan Telecom Internet Data Center,211.149.167.31
+Switzerland,CH,ZH,Zurich,Zurich,8102,47.4049,8.4631,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.208.134
+United Kingdom,GB,ENG,England,London,EC4N,51.5095,-0.0955,"Linode, LLC","AS63949 Linode, LLC",139.162.253.23
+Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,OVH GmbH,AS16276 OVH SAS,54.38.158.201
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3193,114.1693,Google Cloud (asia-east2),AS15169 Google LLC,34.92.240.147
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3964,114.109,CloudRadium L.L.C,AS40065 CNSERVERS LLC,23.225.64.55
+China,CN,BJ,Beijing,Haidian,,39.9786,116.302,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,129.211.209.223
+Slovenia,SI,061,Ljubljana,Ljubljana,1000,46.0503,14.5046,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.224.3
+Singapore,SG,,,Queenstown Estate,139964,1.29517,103.79,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.243.15
+United States,US,CA,California,Los Angeles,91387,34.413,-118.4269,Multacom Corporation,AS35916 MULTACOM CORPORATION,173.82.119.236
+Japan,JP,13,Tokyo,Shinagawa,140-0002,35.6191,139.751,Digital Virtualisation Solutions Tokyo,AS9009 M247 Ltd,109.166.38.183
+China,CN,GD,Guangdong,Guangzhou,,23.1291,113.264,Huawei Public Cloud Service,AS55990 Huawei Cloud Service data center,121.37.215.145
+Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Bite Bulgaria LTD,AS43561 NET1 Ltd.,87.121.57.66
+China,CN,FJ,Fujian,Fuzhou,,26.0614,119.3061,Chinanet FJ,AS4134 CHINANET-BACKBONE,222.79.44.120
+South Korea,KR,42,Gangwon-do,Chuncheon,24329,37.8897,127.736,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,152.67.216.48
+United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,Virtual Machine Solutions LLC,AS36352 ColoCrossing,192.3.73.139
+United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",147.182.175.157
+China,CN,BJ,Beijing,Chaowai,,39.9084,116.442,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,119.91.120.128
+United Kingdom,GB,ENG,England,Manchester,M40,53.5058,-2.2209,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.232.95
+Netherlands,NL,NH,North Holland,Amsterdam,1015,52.3798,4.88814,Euronet Communications B.V.,AS45090 Shenzhen Tencent Computer Systems Company Limited,81.71.124.150
+United States,US,CA,California,Los Angeles,90014,34.0485,-118.2529,,AS8100 QuadraNet Enterprises LLC,66.154.107.138
+France,FR,IDF,Île-de-France,Paris,75011,48.8323,2.4075,,AS15557 SFR SA,89.2.11.65
+United States,US,CA,California,Los Angeles,90014,34.0485,-118.2529,,AS8100 QuadraNet Enterprises LLC,198.55.123.249
+United States,US,CA,California,Los Angeles,90017,34.0494,-118.2661,Cluster Logic Inc,AS25820 IT7 Networks Inc,199.19.106.54
+United States,US,CA,California,Los Angeles,90009,34.0544,-118.2441,HostFlyte Server Solutions,AS397280 HostFlyte Server Solutions,72.19.15.54
+Slovenia,SI,061,Ljubljana,Ljubljana,1500,46.0517,14.5133,EDIS GmbH,AS48894 Optimus IT d.o.o.,192.71.244.126
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,106.53.107.74
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.148.105
+Germany,DE,RP,Rheinland-Pfalz,Neustadt,67433,49.3501,8.13886,netcup GmbH,AS197540 netcup GmbH,202.61.230.151
+United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,150.136.136.165
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.129.179.154
+Russia,RU,MOW,Moscow,Moscow,115191,55.7482,37.6177,Ionica LLC,"AS199274 Serveroid, LLC",176.112.213.60
+Croatia,HR,21,City of Zagreb,Zagreb,10010,45.7534,16.0031,EDIS GmbH,AS25467 Akton d.o.o.,46.183.184.18
+Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1188,8.6843,Linode,"AS63949 Linode, LLC",172.105.67.235
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,49.233.252.217
+Indonesia,ID,JK,Jakarta,Jakarta,,-6.2087,106.8455,Google Cloud (asia-southeast2),AS139190 Google Asia Pacific Pte. Ltd.,34.101.240.38
+Germany,DE,BY,Bavaria,Munich,80331,48.1428,11.5801,Akenes SA,AS61098 Akenes SA,194.182.182.199
+India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.27.23
+China,CN,BJ,Beijing,Haidian,,39.9786,116.302,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,159.75.105.66
+United States,US,TX,Texas,Dallas,75270,32.7767,-96.805,Virtual Machine Solutions LLC,AS36352 ColoCrossing,192.210.214.3
+Russia,RU,MOW,Moscow,Vostochnoe Degunino,,55.8801,37.5576,,AS57494 Adman LLC,185.177.218.107
+Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Google Cloud (europe-west3),AS15169 Google LLC,35.207.126.216
+United States,US,WA,Washington,Seattle,98121,47.6144,-122.3447,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.245.249
+India,IN,TG,Telangana,Hyderabad,500032,17.384,78.4564,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,152.70.70.91
+South Korea,KR,26,Busan,Busanjin-gu,47597,35.1796,129.0756,Microsoft Azure Cloud (koreasouth),AS8075 Microsoft Corporation,52.231.161.243
+Russia,RU,MOW,Moscow,Moscow,,55.7363,37.7211,Firstbyte Hosting,AS205090 Network Management Ltd,45.90.216.168
+South Korea,KR,41,Gyeonggi-do,Seongnam-si,13332,37.4331,127.1377,Sudogwongangnambonbujang,AS4766 Korea Telecom,183.100.236.26
+Romania,RO,B,Bucharest,Bucharest,050553,44.4117,26.0422,EDIS GmbH,AS9009 M247 Ltd,194.68.44.147
+Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,OVH GmbH,AS16276 OVH SAS,135.125.181.234
+United Kingdom,GB,ENG,England,Southend-on-Sea,SS2,51.5323,0.7101,Virgin Media Limited,AS5089 Virgin Media Limited,92.238.55.12
+Serbia,RS,00,Belgrade,Belgrade,,44.8166,20.4721,EDIS GmbH,AS9009 M247 Ltd,194.71.126.128
+Germany,DE,BW,Baden-Württemberg,Rheinmuenster,77836,48.7782,8.08807,IONOS SE,AS8560 IONOS SE,82.165.167.96
+United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.4.144
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.129.28.210
+United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,Google Cloud (us-central1),AS15169 Google LLC,34.121.75.184
+United States,US,CA,California,San Jose,95113,37.3342,-121.892,PEG TECH INC,AS54600 PEG TECH INC,104.233.130.50
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.41.43
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.267,114.188,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,13.75.80.211
+Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Aruba S.p.A. - Cloud Services,AS31034 Aruba S.p.A.,80.211.24.97
+Hong Kong,HK,NST,Sha Tin,Shatin,,22.3829,114.1779,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,112.118.77.28
+Italy,IT,82,Sicily,Palermo,90100,38.1302,13.329,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.253.63
+United States,US,CA,California,Los Angeles,90009,34.0522,-118.244,Krypt Technologies,AS35908 Krypt Technologies,67.198.131.72
+Portugal,PT,05,Castelo Branco,Fundao,6230-408,40.1425,-7.4982,PT Comunicacoes S.A.,AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,188.251.4.158
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,132.226.1.138
+Moldova,MD,CU,Chișinău Municipality,Chisinau,MD-2000,47.0042,28.8574,EDIS GmbH,AS43289 I.C.S. Trabia-Network S.R.L.,192.121.87.101
+Hong Kong,HK,HWC,Wan Chai,Wanchai,96521,22.2783,114.172,,AS133380 Layerstack Limited,103.68.61.175
+China,CN,BJ,Beijing,Haidian,,39.9786,116.302,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,101.34.15.216
+United States,US,NV,Nevada,Las Vegas,89101,36.1697,-115.1236,FranTech Solutions,AS53667 FranTech Solutions,209.141.33.41
+Germany,DE,BE,Land Berlin,Berlin,10555,52.5233,13.3426,1blu AG,AS42730 EVANZO e-commerce GmbH,178.254.12.192
+United States,US,NY,New York,New York,10004,40.7123,-74.0068,Virtual Machine Solutions LLC,AS36352 ColoCrossing,192.210.175.194
+Romania,RO,VL,Valcea,Râmnicu Vâlcea,240011,45.1002,24.3644,RCS & RDS Residential,AS8708 RCS & RDS,86.126.109.254
+Hong Kong,HK,KKC,Kowloon City,Kowloon,,22.3356,114.1847,Hong Kong Broadband Network Ltd,AS9269 Hong Kong Broadband Network Ltd.,138.19.40.70
+Singapore,SG,,,Singapore,,1.28009,103.851,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.221.204.254
+Poland,PL,14,Mazovia,Warsaw,02-673,52.1828,20.9846,ArubaCloud PL Network,AS205727 Aruba S.p.A.,176.107.133.18
+Russia,RU,MOW,Moscow,Moscow,,55.7905,37.4674,HostiMan.ru,AS50340 OOO Network of data-centers Selectel,81.90.180.173
+South Korea,KR,41,Gyeonggi-do,Seongnam-si,13332,37.4331,127.1377,Xpeed,AS17858 LG POWERCOMM,116.33.230.28
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.226.225.78
+United States,US,TX,Texas,Waxahachie,75165,32.3816,-96.8322,GEUS,"AS15054 Northeast Texas Broadband, LLC",76.10.254.216
+Greece,GR,B,Central Macedonia,Thessaloniki,,40.6381,22.9455,EDIS GmbH,AS8280 SYNAPSECOM S.A. Provider of Telecommunications and Internet Services,192.71.166.89
+Denmark,DK,84,Capital Region,Albertslund Municipality,2620,55.6574,12.3603,Ssdvps,AS202914 Adeo Datacenter ApS,185.51.76.193
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,114.132.42.26
+South Africa,ZA,GP,Gauteng,Johannesburg,2041,-26.2041,28.0473,SUN Network Company Limited,AS328543 Sun Network Company Limited,193.239.178.45
+Canada,CA,ON,Ontario,Toronto,M6G,43.6655,-79.4204,Linode,"AS63949 Linode, LLC",172.105.16.134
+Singapore,SG,,,Queenstown Estate,139964,1.29517,103.79,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.142.100
+Japan,JP,13,Tokyo,Tokyo,,35.6803,139.769,Nextdns TYO,"AS142616 Misaka Network, Inc.",103.170.232.254
+South Korea,KR,42,Gangwon-do,Wonju,26417,37.3513,127.9544,SK Broadband Co Ltd,AS9318 SK Broadband Co Ltd,175.122.49.167
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",119.23.45.126
+Romania,RO,B,Bucharest,Bucharest,050553,44.4117,26.0422,RCS & RDS Residential,AS8708 RCS & RDS,82.78.255.255
+Lithuania,LT,VL,Vilnius,Vilnius,08234,54.7065,25.3074,"UAB ""Interneto vizija""",AS212531 Interneto vizija,176.223.138.15
+South Africa,ZA,GT,Gauteng,Johannesburg,2193,-26.20229,28.034195,Microsoft Azure Cloud (southafricanorth),AS8075 Microsoft Corporation,102.37.108.139
+China,CN,BJ,Beijing,Beijing,,39.9285,116.385,Aliyun Computing Co.,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",8.131.55.156
+North Macedonia,MK,,Grad Skopje,Skopje,1000,41.9971,21.4037,EDIS GmbH,AS25467 Akton d.o.o.,46.183.185.19
+Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0668,34.7649,Hotnet Broadband,AS12849 Hot-Net internet services Ltd.,89.237.90.139
+Singapore,SG,,,Singapore,,1.28009,103.851,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.229.248.106
+United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.25.27
+China,CN,SC,Sichuan,Baihe,,28.2452,104.8114,Chinanet SC,AS4134 CHINANET-BACKBONE,118.116.18.174
+Netherlands,NL,GE,Gelderland,Doetinchem,7005,51.9542,6.30025,Zomro B.V,AS204601 Zomro B.V.,185.229.251.250
+Malta,MT,04,Birkirkara,Birkirkara,BKR,35.8955,14.4743,Netshop ISP,AS200805 Melita Limited,130.185.255.146
+Indonesia,ID,SA,North Sulawesi,Tondano,,1.26657,124.883,Universitas Negeri Manado,AS138066 Universitas Negeri Manado,103.123.108.187
+Spain,ES,MD,Madrid,Mostoles,28938,40.3192,-3.8661,Xtra Telecom S.A,AS15704 XTRA TELECOM S.A.,84.39.182.149
+Colombia,CO,ANT,Antioquia,Medellín,050001,6.2529,-75.5646,Anexia South America Sociedad Anonima,AS42473 ANEXIA Internetdienstleistungs GmbH,131.100.1.155
+Brazil,BR,SP,Sao Paulo,São Paulo,01323,-23.5475,-46.6361,Oracle Cloud Infrastructure (sa-saopaulo-1),AS31898 Oracle Corporation,152.70.222.67
+Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.122.49.92
+France,FR,IDF,Île-de-France,Paris,75000,48.8323,2.4075,Vultr Holdings LLC Paris,"AS20473 The Constant Company, LLC",95.179.218.70
+Japan,JP,13,Tokyo,Koto,135-0062,35.6417,139.806,,AS63916 IPTELECOM Global,103.72.4.169
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,42.192.89.119
+China,CN,GD,Guangdong,Guangzhou,,23.1291,113.264,Huawei Public Cloud Service,AS55990 Huawei Cloud Service data center,139.159.143.70
+France,FR,HDF,Hauts-de-France,Valenciennes,59300,50.3526,3.5287,Proxad / Free SAS,AS12322 Free SAS,78.193.16.47
+Kenya,KE,30,Nairobi Province,Nairobi,09831,-1.2841,36.8155,,AS327813 VIDOLU Group Pty Ltd-Web4Africa,102.68.86.68
+Ukraine,UA,30,Kyiv City,Kyiv,04208,50.458,30.5303,Oneprovider.com,AS48031 PE Ivanov Vitaliy Sergeevich,147.78.3.243
+United Kingdom,GB,ENG,England,London,,51.5073,-0.1277,"nextdns, Inc","AS58313 Misaka Network, Inc.",45.142.244.191
+South Korea,KR,42,Gangwon-do,Wonju-si,26395,37.3177,127.924,Kornet,AS4766 Korea Telecom,183.108.42.179
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.226.19.244
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.79.195.77
+Netherlands,NL,ZH,South Holland,Naaldwijk,2671,51.9981,4.198,IncogNet LLC,AS206607 Nexus Bytes LLC,23.184.48.38
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,152.136.108.242
+Ireland,IE,L,Leinster,Dublin,D02,53.3382,-6.2591,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.231.167
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.133.199
+Russia,RU,MOS,Moscow Oblast,Shcherbinka,142172,55.4998,37.5377,CentroSet Ltd.,AS49124 CentroSet Ltd.,176.112.89.15
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.283,114.158,Aperture Science Limited,AS38008 Aperture Science Limited,103.152.35.2
+Russia,RU,SPE,St.-Petersburg,St Petersburg,,59.9311,30.3609,Selectel Ltd.,AS49505 OOO Network of data-centers Selectel,46.161.54.34
+Russia,RU,SPE,St.-Petersburg,St Petersburg,190005,59.8886,30.3287,,AS9123 TimeWeb Ltd.,188.225.18.228
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.267,114.188,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,137.116.160.51
+Singapore,SG,,,Singapore,627753,1.32123,103.695,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.51.195
+Australia,AU,NSW,New South Wales,Sydney,2000,-33.8601,151.2101,,AS9443 Vocus Retail,58.178.248.206
+United Kingdom,GB,ENG,England,London,SL1,51.5177,-0.6215,Oracle Cloud Infrastructure (uk-london-1),AS31898 Oracle Corporation,132.226.209.115
+Romania,RO,B,Bucharest,Bucharest,050553,44.4117,26.0422,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,188.172.254.163
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.92.169
+United States,US,NY,New York,Rochester,14622,43.2167,-77.5583,"Greenlight Networks, LLC","AS31775 Greenlight Networks, LLC",64.201.233.158
+China,CN,SH,Shanghai,Shanghai,,31.2304,121.474,Huawei Cloud Service,AS55990 Huawei Cloud Service data center,119.3.92.152
+United States,US,GA,Georgia,Atlanta,30301,33.844,-84.4784,Linode,"AS63949 Linode, LLC",173.230.134.60
+Serbia,RS,00,Belgrade,Belgrade,,44.8166,20.4721,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.8.49
+Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.183.63
+Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,"nextdns, Inc","AS57695 Misaka Network, Inc.",194.156.162.9
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3964,114.109,Amateur Radio Digital Communications,AS135646 Luginbash AS,44.159.64.53
+Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.21.59
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3964,114.109,Globaldata Investments Inc,AS40065 CNSERVERS LLC,156.251.179.202
+United States,US,CA,California,Los Angeles,90014,34.0485,-118.2529,Cluster Logic Inc,AS25820 IT7 Networks Inc,216.24.185.153
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.128.20.252
+Japan,JP,27,Ōsaka,Osaka,543-0062,34.6851,135.5136,IT7 Networks Inc,AS25820 IT7 Networks Inc,45.78.52.61
+Peru,PE,LMA,Lima,Lima,,-12.0464,-77.0428,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,188.172.252.31
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,121.5.246.215
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",39.108.129.228
+South Korea,KR,11,Seoul,Seoul,02878,37.5985,126.9783,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.136.136
+Australia,AU,ACT,Australian Capital Territory,Wanniassa,2903,-35.4031,149.097,,AS16276 OVH SAS,51.161.192.78
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.3193,114.169,HK NEW Cloud Technology Limited,AS40065 CNSERVERS LLC,154.209.76.33
+China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,106.75.164.243
+Vietnam,VN,HN,Hanoi,Thanh Xuân,,20.9924,105.802,GREENCLOUDVPS,AS63734 365 Online technology joint stock company,103.199.19.132
+India,IN,DL,National Capital Territory of Delhi,New Delhi,110001,28.6328,77.2204,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.10.59
+United States,US,IL,Illinois,Chicago,60602,41.8874,-87.6318,ColoCrossing,AS36352 ColoCrossing,198.23.233.41
+Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40472,51.2705,6.8144,myLoc managed IT AG,AS24961 myLoc managed IT AG,213.202.255.111
+United States,US,CA,California,Los Angeles,90009,34.0522,-118.244,Root Networks LLC,AS46573 LayerHost,157.52.184.21
+Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,RUNSYSTEM,AS131392 GMO-Z.com Runsystem Joint Stock Company,150.95.110.187
+Russia,RU,PRI,Primorskiy (Maritime) Kray,Vladivostok,690003,43.1068,131.8692,G-Core Labs S.A,AS202422 G-Core Labs S.A.,5.101.218.208
+Germany,DE,BY,Bavaria,Munich,80539,48.1663,11.5683,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.30.7
+Vietnam,VN,SG,Ho Chi Minh,Bình An,,10.7915,106.731,,AS131414 Long Van Soft Solution JSC,103.237.147.61
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,106.52.4.200
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",120.79.15.130
+Italy,IT,25,Lombardy,Milan,20131,45.4742,9.1994,virtual solution srl,AS49367 Seflow S.N.C. Di Marco Brame' & C.,86.107.110.135
+China,CN,BJ,Beijing,Haidian,,39.9786,116.302,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,101.34.18.129
+Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.8326,106.6581,Nanda Company Limited,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,103.153.73.166
+New Caledonia,NC,S,South Province,Noumea,98800,-22.2692,166.461,Nautile Services,AS45345 Nautile,103.2.186.194
+South Korea,KR,42,Gangwon-do,Chuncheon,24329,37.8897,127.736,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,146.56.118.248
+Lithuania,LT,VL,Vilnius,Vilnius,01213,54.6816,25.3225,,AS16125 UAB Cherry Servers,46.166.163.213
+Russia,RU,MOW,Moscow,Zelenograd,143910,55.9878,37.2261,LLC Baxet,AS49392 LLC Baxet,2.56.240.30
+Poland,PL,24,Silesia,Gliwice,44-117,50.3261,18.6572,KOPnet S.C.,AS41026 KOPnet S.C. Marek Szczudlo Juliusz Kostrzewski,195.140.152.244
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,168.138.206.87
+Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.7635,106.657,Long Dinh Entertainment Company Limited,AS38244 VNG Corporation,58.84.0.244
+Italy,IT,25,Lombardy,Milan,20131,45.4742,9.1994,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,178.255.155.63
+South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc.",52.78.17.95
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3193,114.1693,Google Cloud (asia-east2),AS15169 Google LLC,34.150.58.32
+Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3702,4.89517,Versatel,AS13127 T-mobile Netherlands B.V.,87.213.111.182
+China,CN,SC,Sichuan,Chengdu,,30.6667,104.0667,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.109.80.110
+Malaysia,MY,14,Kuala Lumpur,Kuala Lumpur,58100,3.09657,101.677,Shinjiru Technology Sdn Bhd,AS45839 Shinjiru Technology Sdn Bhd,124.217.247.170
+United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,Google Cloud (us-east1),AS15169 Google LLC,35.211.28.238
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.129.208.132
+Hungary,HU,BU,Budapest,Budapest,1007,47.4979,19.0402,EDIS GmbH,AS5483 Magyar Telekom plc.,194.71.130.182
+Singapore,SG,,,Singapore,069536,1.27989,103.849,OVH Singapore PTE. LTD,AS16276 OVH SAS,51.79.164.28
+Germany,DE,HE,Hesse,Frankfurt am Main,60326,50.1049,8.6295,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,130.61.75.201
+Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1188,8.6843,"Linode, LLC","AS63949 Linode, LLC",139.162.142.149
+China,CN,GD,Guangdong,Guangzhou,,23.1291,113.264,Huawei Public Cloud Service,AS55990 Huawei Cloud Service data center,121.37.244.161
+Indonesia,ID,JK,Jakarta,Jakarta,,-6.17511,106.865,PT Media Access Telematika,AS142381 PT Media Access Telematika,103.172.17.225
+Russia,RU,MOW,Moscow,Moscow,129343,55.7483,37.6171,LLC Baxet,AS51659 LLC Baxet,46.17.44.170
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,42.193.131.158
+Germany,DE,HE,Hesse,Frankfurt am Main,60314,50.1103,8.7147,Vultr Holdings LLC Frankfurt,"AS20473 The Constant Company, LLC",199.247.17.85
+Ukraine,UA,32,Kyiv Oblast,Pogreby,,50.5515,30.6295,Internet Invest Ltd.,AS28907 Internet Invest Ltd.,89.184.83.56
+Singapore,SG,,,Singapore,,1.283,103.833,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,40.65.190.185
+Russia,RU,MOW,Moscow,Moscow,129343,55.7483,37.6171,Iskratelecom,AS29124 Iskratelecom CJSC,94.102.125.56
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,Online Breedband B.V.,AS45090 Shenzhen Tencent Computer Systems Company Limited,81.70.169.76
+Latvia,LV,RIX,Riga,Riga,LV-1058,56.9496,24.0978,EDIS GmbH,AS56630 Melbikomas UAB,192.36.41.39
+Czechia,CZ,64,South Moravian,Brno,621 00,49.2667,16.6,"UPC Ceska republika, a.s.",AS16019 Vodafone Czech Republic a.s.,78.102.201.143
+Switzerland,CH,VD,Vaud,Lausanne,1004,46.5267,6.6243,Swisscom (Schweiz) AG,AS3303 Swisscom (Schweiz) AG,188.62.122.218
+France,FR,IDF,Île-de-France,Vitry-sur-Seine,94400,48.792,2.39851,ONLINE,AS12876 ONLINE S.A.S.,163.172.39.74
+Indonesia,ID,SA,North Sulawesi,Tondano,,1.26657,124.883,Universitas Negeri Manado,AS138066 Universitas Negeri Manado,103.123.108.188
+United States,US,CA,California,Los Angeles,90014,34.0485,-118.2529,IT7 Networks Inc,AS25820 IT7 Networks Inc,144.168.58.79
+United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.76.127
+Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,Digital Ocean,"AS14061 DigitalOcean, LLC",138.197.137.219
+Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Contabo GmbH,AS51167 Contabo GmbH,62.171.155.19
+United States,US,CA,California,Santa Clarita,91350,34.4267,-118.425,Multacom Corporation,AS35916 MULTACOM CORPORATION,216.24.255.221
+Thailand,TH,10,Bangkok,Bangkok,10110,13.7083,100.4562,"Nipa Technology Co., ltd.","AS45328 NIPA TECHNOLOGY CO., LTD",103.74.252.143
+Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.249.131.159
+Russia,RU,MOW,Moscow,Moscow,129343,55.7483,37.6171,Srvcore,AS208102 Individual Entrepreneur Rylov Roman Yrevich,212.22.85.101
+Singapore,SG,,,Singapore,,1.28009,103.851,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.250.95.50
+Russia,RU,MOW,Moscow,Moscow,143441,55.84,37.4069,Reg.Ru,"AS197695 Domain names registrar REG.RU, Ltd",134.0.115.245
+United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,129.213.161.206
+United States,US,DC,"Washington, D.C.",Washington,,38.9071,-77.0368,Google Cloud (us-east4),AS15169 Google LLC,34.86.106.186
+Argentina,AR,C,Buenos Aires F.D.,Buenos Aires,1871,-34.6403,-58.3671,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.28.67
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,111.231.33.22
+United States,US,NY,New York,Buffalo,14202,42.893,-78.8753,Virtual Machine Solutions LLC,AS36352 ColoCrossing,23.95.242.100
+Japan,JP,13,Tokyo,Tokyo,100-0001,35.6887,139.745,Linode,"AS63949 Linode, LLC",172.104.104.37
+France,FR,PAC,Provence-Alpes-Côte d'Azur,Marseille,13002,43.3071,5.3632,"nextdns, Inc","AS57695 Misaka Network, Inc.",185.189.72.134
+South Korea,KR,11,Seoul,Seoul,02878,37.5944,126.9864,"Choopa, LLC","AS20473 The Constant Company, LLC",141.164.50.239
+Singapore,SG,,,Singapore,627753,1.32123,103.695,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.34.157
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.107.83.238
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,106.53.9.6
+South Korea,KR,41,Gyeonggi-do,Ansan-si,15345,37.3253,126.8178,broadNnet,AS9318 SK Broadband Co Ltd,1.242.228.58
+China,CN,BJ,Beijing,Beijing,,39.9285,116.385,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",39.107.232.206
+Russia,RU,MOW,Moscow,Moscow,129343,55.7483,37.6171,Intersect-Host LTD,AS44094 Webhost LLC,45.150.64.18
+Russia,RU,MOW,Moscow,Moscow,,55.7363,37.7211,Firstbyte Hosting,AS205090 Network Management Ltd,84.252.74.40
+Hong Kong,HK,HCW,Central and Western,Hong Kong,,22.3964,114.109,AWS EC2 (ap-east-1),"AS16509 Amazon.com, Inc.",18.162.169.175
+China,CN,JS,Jiangsu,Qinnan,,33.1402,119.789,Unicom JS,AS4837 CHINA UNICOM China169 Backbone,153.99.21.208
+United States,US,CA,California,Los Angeles,90009,34.0522,-118.244,,AS35251 Ziyin Lin trading as Netlab,103.150.215.87
+Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,OVH GmbH,AS16276 OVH SAS,51.195.91.132
+United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd.",47.254.64.251
+Russia,RU,KHA,Khabarovsk,Khabarovsk,680009,48.4817,135.083,G-Core Labs S.A,AS202422 G-Core Labs S.A.,92.38.189.21
+Singapore,SG,,,Singapore,,1.28009,103.851,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.76.16.182
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,1.117.50.65
+Slovakia,SK,BL,Bratislava,Bratislava,811 01,48.1833,17.0379,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.246.39
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.61.87
+United States,US,CA,California,Los Angeles,90009,34.0544,-118.2441,Hostdare LLC,AS40065 CNSERVERS LLC,185.238.248.204
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.267,114.188,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,52.229.189.143
+Germany,DE,HE,Hesse,Frankfurt am Main,60326,50.1049,8.6295,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,152.70.189.89
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3193,114.1693,"nextdns, Inc","AS57695 Misaka Network, Inc.",45.11.104.186
+Russia,RU,MOW,Moscow,Moscow,,55.7363,37.7211,Firstbyte Hosting,AS50113 NTX Technologies s.r.o.,185.189.12.127
+Russia,RU,SPE,St.-Petersburg,St Petersburg,190970,59.8983,30.2618,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,37.252.255.23
+Singapore,SG,,,Singapore,,1.35208,103.82,365 Group LLC,AS59253 Leaseweb Asia Pacific pte. ltd.,209.17.118.5
+Russia,RU,MOW,Moscow,Moscow,115191,55.7482,37.6177,Management Networks LLC,"AS199274 Serveroid, LLC",176.112.192.79
+Indonesia,ID,JK,Jakarta,Jakarta,,-6.20875,106.81,PT Denbe Anugerah Solusindo,AS136052 PT Cloud Hosting Indonesia,103.214.113.104
+United States,US,CA,California,Canyon Country,91387,34.4255,-118.425,Multacom Corporation,AS35916 MULTACOM CORPORATION,216.127.186.88
+South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,,AS37611 Afrihost (Pty) Ltd,197.242.149.195
+Turkey,TR,34,Istanbul,Gungoren,34164,41.0153,28.8857,Nosspeed Bilisim Teknolojileri,AS207459 Taner Temel,213.142.149.180
+Hong Kong,HK,HCW,Central and Western District,Hong Kong,96521,22.267,114.188,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,137.116.172.225
+India,IN,MH,Maharashtra,Mumbai,400701,19.0748,72.8856,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,152.67.1.111
+United States,US,AZ,Arizona,Phoenix,85008,33.4656,-111.9956,Oracle Cloud Infrastructure (us-phoenix-1),AS31898 Oracle Corporation,129.146.40.8
+France,FR,PAC,Provence-Alpes-Côte d'Azur,Marseille,13002,43.2942,5.3669,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,188.172.245.31
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",120.77.209.47
+China,CN,BJ,Beijing,Haidian,,39.9786,116.302,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,159.75.99.250
+Ukraine,UA,30,Kyiv City,Kyiv,04208,50.458,30.5303,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.2.63
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.128.9.218
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.107.121.125
+Japan,JP,13,Tokyo,Tokyo,270-1351,35.798,140.1803,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.149.111
+Ukraine,UA,51,Odessa,Odessa,65012,46.4888,30.7474,TeNeT Telecommunication Company,AS6876 TENET Scientific Production Enterprise LLC,188.115.185.15
+China,CN,SH,Shanghai,Shanghai,,31.0442,121.4054,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",101.132.226.222
+United States,US,CA,California,San Jose,95119,37.2329,-121.7875,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,152.70.121.80
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,106.55.143.25
+Belgium,BE,VLG,Flanders,Leuven,3000,50.8758,4.7027,Telenet,AS6848 Telenet BVBA,81.82.197.222
+Hong Kong,HK,HCW,Central and Western District,Admiralty,96521,22.2792,114.164,,AS38197 Sun Network (Hong Kong) Limited - HongKong Backbone,103.254.108.74
+Indonesia,ID,SA,North Sulawesi,Tondano,,1.26657,124.883,Universitas Negeri Manado,AS138066 Universitas Negeri Manado,103.123.108.197
+Netherlands,NL,NH,North Holland,Amsterdam,1015,52.3798,4.88814,Wanadoo Nederland BV,AS45090 Shenzhen Tencent Computer Systems Company Limited,81.69.162.145
+Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3702,4.89517,,AS208951 IT-GRAD NL B.V.,45.138.24.50
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.132.168.16
+United Kingdom,GB,ENG,England,London,SL1,51.5177,-0.6215,Oracle Cloud Infrastructure (uk-london-1),AS31898 Oracle Corporation,132.145.58.214
+China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Yunify Technologies Inc.,AS59078 Yunify Technologies Inc.,139.198.26.12
+Canada,CA,QC,Quebec,Montreal,H4X,45.5029,-73.5723,"OVH Hosting, Inc.",AS16276 OVH SAS,192.99.161.62
+United States,US,AZ,Arizona,Phoenix,85008,33.4656,-111.9956,Oracle Cloud Infrastructure (us-phoenix-1),AS31898 Oracle Corporation,158.101.3.197
+United Kingdom,GB,ENG,England,Kensington,SW7,51.4827,-0.1615,Fasthosts Internet Limited,AS8560 IONOS SE,77.68.93.102
+United Kingdom,GB,ENG,England,London,SL1,51.5368,-0.6718,Digitalocean,"AS14061 DigitalOcean, LLC",46.101.48.33
+Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,OVH GmbH,AS16276 OVH SAS,54.37.203.237
+China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Shanghai UCloud Information Technology Company Limited,AS4811 China Telecom (Group),113.31.103.21
+Russia,RU,MOW,Moscow,Moscow,101194,55.734,37.5883,Yandex LLC,AS200350 Yandex.Cloud LLC,130.193.38.204
+New Zealand,NZ,AUK,Auckland,Auckland,1010,-36.8506,174.7679,BBA-SPARK,AS4771 Spark New Zealand Trading Ltd.,122.58.129.60
+Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",13.49.175.86
+Poland,PL,14,Mazovia,Warsaw,00-441,52.2251,21.0477,OVH Sp. z o. o,AS16276 OVH SAS,146.59.16.109
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,1.116.56.25
+India,IN,MH,Maharashtra,Mumbai,400701,19.0748,72.8856,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,146.56.50.56
+Malaysia,MY,10,Selangor,Puchong Batu Dua Belas,47180,3.0659,101.6189,,"AS4788 TM Net, Internet Service Provider",124.82.97.191
+Russia,RU,MOW,Moscow,Moscow,129343,55.7483,37.6171,EDIS GmbH,AS56630 Melbikomas UAB,213.183.56.73
+Singapore,SG,,,Singapore,627753,1.32123,103.695,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.110.245
+Russia,RU,MOW,Moscow,Moscow,101000,55.7483,37.6171,JSC Mediasoft ekspert,AS48347 JSC Mediasoft ekspert,194.87.236.82
+Germany,DE,NW,North Rhine-Westphalia,Krefeld,47799,51.3337,6.5815,myLoc managed IT AG,AS24961 myLoc managed IT AG,80.82.222.147
+Taiwan,TW,NWT,New Taipei,New Taipei,,25.0504,121.5324,,AS3462 Data Communication Business Group,211.75.139.75
+Germany,DE,HH,Free and Hanseatic City of Hamburg,Hamburg,21029,53.4924,10.2154,BusinessOnline AG,AS42730 EVANZO e-commerce GmbH,195.90.213.140
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,,"AS132203 Tencent Building, Kejizhongyi Avenue",101.32.40.152
+France,FR,IDF,Île-de-France,Paris,75005,48.8323,2.4075,,AS3215 Orange S.A.,92.169.83.183
+United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,Virtual Machine Solutions LLC,AS36352 ColoCrossing,107.173.187.170
+Switzerland,CH,ZH,Zurich,Zurich,8102,47.4049,8.4631,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.213.114
+United States,US,CA,California,Los Angeles,90025,34.0472,-118.448,Virtual Machine Solutions LLC,AS36352 ColoCrossing,107.172.30.115
+Hungary,HU,BU,Budapest,Budapest,1007,47.5636,19.0947,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,217.146.4.63
+Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Contabo GmbH,AS51167 Contabo GmbH,161.97.97.206
+China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,1.116.62.34
+United States,US,CA,California,Corona,92879,33.8789,-117.5353,Spectrum,AS20001 Charter Communications Inc,98.154.23.186
+Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Oracle Cloud Infrastructure (eu-amsterdam-1),AS31898 Oracle Corporation,152.70.54.34
+Russia,RU,MOS,Moscow Oblast,Khimki,141400,55.8946,37.4151,JSC Datacenter,AS29182 JSC IOT,195.140.146.122
+United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,Linode,"AS63949 Linode, LLC",50.116.59.251
+Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Google Cloud (europe-west3),AS15169 Google LLC,34.141.58.85
+China,CN,SH,Shanghai,Shanghai,,31.0442,121.4054,Chinanet SH,AS4812 China Telecom (Group),101.89.123.21
+Greece,GR,I,Attica,Athens,,37.9842,23.7353,Mvps LTD,AS202448 MVPS LTD,185.243.214.88
+Singapore,SG,,,Singapore,,1.283,103.833,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,13.76.230.187
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.106.251.191
+China,CN,HB,Hubei,Wulipu,,30.7378,112.238,Chinanet HB,AS4134 CHINANET-BACKBONE,111.173.114.185
+South Korea,KR,11,Seoul,Seoul,02878,37.5944,126.9864,"Choopa, LLC","AS20473 The Constant Company, LLC",141.164.63.208
+China,CN,SH,Shanghai,Shanghai,,31.0442,121.4054,,AS17621 China Unicom Shanghai network,112.64.31.31
+China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.98.139.211
+United States,US,CA,California,San Jose,95141,37.3382,-121.886,NYC Metro,AS36352 ColoCrossing,107.173.149.200
+South Korea,KR,44,Chungcheongnam-do,Boryeong,33439,36.352,126.6023,Kornet,AS4766 Korea Telecom,119.203.211.42
+Russia,RU,OMS,Omsk Oblast,Omsk,644000,54.9978,73.4001,"JSC ""ER-Telecom Holding"" Omsk Branch",AS41843 JSC ER-Telecom Holding,92.255.176.201
+United States,US,TX,Texas,Houston,77052,29.7604,-95.3698,Dfdb LLC,AS398355 Data Ideas llc.,64.112.126.239
+China,CN,GD,Guangdong,Shenzhen,,22.5318,114.1374,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",119.23.211.32
+Hong Kong,HK,HCW,Central and Western District,Central,96521,22.2908,114.1501,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.129.170.196
+Singapore,SG,,,Singapore,,1.35208,103.82,LINODE,"AS63949 Linode, LLC",139.162.7.92
+Singapore,SG,,,Singapore,,1.35208,103.82,,AS16276 OVH SAS,51.79.209.27
+South Korea,KR,41,Gyeonggi-do,Ansan-si,15345,37.3253,126.8178,broadNnet,AS9318 SK Broadband Co Ltd,114.204.32.239
