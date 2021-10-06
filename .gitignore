@@ -1,6 +1,7 @@
 *.db-shm
 *.db-wal
 performance-measurements
+misc-measurements
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
