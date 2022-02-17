@@ -2,6 +2,9 @@
 *.db-wal
 performance-measurements
 misc-measurements
+Cdf.py
+Pmf.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
