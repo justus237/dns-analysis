@@ -17,12 +17,3 @@
 | fluctuations.py | Weekly fluctations of DoQ-capable resolvers | results/*.csv presumably from zmap and/or verify-doq | prints to CLI |
 | Detailed_Handshake.ipynb | QUIC (vs TLS) handshake analysis (handshake duration in terms of traceroute rtt). Bucketed into different RTT bands. | dns_measurements table and qlog-results.json | handshake duration by RTT plots
 | compare-misc.ipynb | Something with ASes and the different vantage points | ? | ? |
-
-overall setup:
-1. run zmap fork on 784, 853 and 8853
-2. run verify-doq to make sure QUIC works server-side
-3. run dns-measurements main.go (workflows/protocols.go manages token store, source port and QUIC version), which runs dnsperf's client, which uses a modified quic-go module that can set its source port
-4. run web-performance/test_servers.sh to get the first five reachable resolvers out of the (verified?) full list of resolvers
-5. run web-performance/run_measurements.sh to measure web performance
-6. run Meta.ipynb -> Performance.ipynb -> Performance-Top5.ipynb for DNS performance
-7. run web-performance.ipynb for Web performance
