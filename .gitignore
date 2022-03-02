@@ -4,6 +4,7 @@ performance-measurements
 misc-measurements
 Cdf.py
 Pmf.py
+*.db
 
 
 # Byte-compiled / optimized / DLL files
