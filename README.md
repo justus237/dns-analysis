@@ -11,14 +11,14 @@ This repository contains the jupyter notebooks to produce the plots of my Master
 `Meta.ipynb`
 
 ### Results Section 5.2.1 - 5.2.5
-`web-performance.ipynb`
+`Web-Performance.ipynb`
 
 ### Resolver List Section 5.2
-`Meta-NewData.ipynb`
+`Meta-Web.ipynb`
 
 ### Results Section 5.2.6
-`web-performance-testbed.ipynb`
+`Web-Performance-Testbed.ipynb`
 
 ### Others:
-`Vantage Points Map.ipynb`: Figure 4.1
-`compare-misc.ipynb`: Analyzing results of misc measurements (not in the Thesis)
+`Vantage-Points-Map.ipynb`: Figure 4.1
+`Compare-Misc.ipynb`: Analyzing results of misc measurements (not in the Thesis)
