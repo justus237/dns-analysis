@@ -1,5 +1,8 @@
 # YouTube QoE analysis is mostly located under `actual_measurement`
-`Vantage-Points-Map-basemap.ipynb` is used to draw the vantage points on a map, similar to `Vantage-Points-Map.ipynb` but using `basemap`.
+
+## `Python 3.8.12`, `pandas 1.3.3`, `numpy 1.21.2`, `seaborn 0.11.2`, `matplotlib 3.4.3` were used, however newer versions should work fine.
+
+`./Vantage-Points-Map-basemap.ipynb` is used to draw the vantage points on a map, similar to `Vantage-Points-Map.ipynb` but using `basemap`.
 
 ### Methodology Section 4.1.6
 `actual_measurement/youtube-make-buffer-timeline.ipynb`
